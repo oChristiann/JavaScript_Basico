@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+}
+
+#box{
+    width: 800px;
+    height: 550px;
+    margin: auto;
+    border: 2px dashed tomato;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.barra{
+    margin-top: 19px;
+    display: flex;
+    justify-content: center;
+}
+
+.opc select{
+    background-color: rgb(255, 115, 0);
+    font-size: 20px;
+    padding: 20px;
+}
+
+.bttn1 button{
+    background-color: rgb(225, 248, 20);
+    font-size: 20px;
+    padding: 20px;
+}
+.bttn2 button{
+    background-color:  rgb(255, 115, 0);
+    font-size: 20px;
+    padding: 20px;
+}
